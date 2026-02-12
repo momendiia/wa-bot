@@ -63,7 +63,7 @@ async function sendButtons(to, bodyText, buttons) {
 }
 
 function welcomeText() {
-  return `✨👋 أهلًا بك في *Aqib Digital Store*  
+  return `✨👋 أهلًا بك في *Nova Store*  
 كيف فينا نساعدك اليوم؟`;
 }
 
